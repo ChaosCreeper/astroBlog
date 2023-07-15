@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '小说推荐-我的无限流队友果然有问题'
-pubDate: 2023-04-07
+pubDate: 2023-07-07
 description: '先中肯的评价一下它,然后开始发癫'
 author: '混沌爬行者'
 cover:
