@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '从两个案例说起如何排查bug'
-pubDate: 2023-06-30
+pubDate: 2023-09-01
 description: '总是遇到别人遇不到的问题大多数是自己有问题'
 author: '混沌爬行者'
 cover:
