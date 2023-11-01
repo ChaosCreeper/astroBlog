@@ -8,7 +8,7 @@ cover:
     url: ''
     square: ''
     alt: 'cover'
-tags: ["学习开发笔记", "算法基础"]
+tags: ["学习开发笔记", "算法学习"]
 theme: 'light'
 featured: false
 ---
