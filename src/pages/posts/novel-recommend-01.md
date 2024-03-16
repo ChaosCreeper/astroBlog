@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '小说推荐-侵入人间'
+title: '小说简评-侵入人间'
 pubDate: 2023-04-07
 description: '侵入人间读后感,但是其实没有全部看完'
 author: '混沌爬行者'
