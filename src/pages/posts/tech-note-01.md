@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'lxml快查表'
-pubDate: 2023-03-19
+pubDate: 2024-04-01
 description: '学习完lxml后的速查表'
 author: '混沌爬行者'
 cover:

@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '安装flask'
-pubDate: 2023-03-19
+pubDate: 2024-04-01
 description: '如何将tailwindcss装到flask项目中'
 author: '混沌爬行者'
 cover:
