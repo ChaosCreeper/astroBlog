@@ -35,6 +35,8 @@ module.exports = {
 @tailwind utilities;
 ```
 5. 创建一个带有tailwindcss写法的html至``template``文件夹中，使用``render_template("index.html")``测试，将html中的``  <link href="/./static/src/input.css" rel="stylesheet">``的路径修改成自己项目对应文件的相对路径
+6. ``npx tailwindcss -i ./src/input.css -o ./src/output.css --watch``修改这个命令中的文件位置为自己项目中文件的位置，运行该命令，正常显示则成功
+7. （可选）在``package.json``中将该命令添加至启动命令中，使用``npm run [command]``启动
 ```
 <!doctype html>
 <html>
@@ -50,5 +52,3 @@ module.exports = {
 </body>
 </html>
 ```
-6. ``npx tailwindcss -i ./src/input.css -o ./src/output.css --watch``修改这个命令中的文件位置为自己项目中文件的位置，运行该命令，正常显示则成功
-7. （可选）在``package.json``中将该命令添加至启动命令中，使用``npm run [command]``启动
